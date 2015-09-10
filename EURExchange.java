@@ -1,4 +1,4 @@
-// [enis time !!!!!! i mean PENIS time. dont forget fagg. I have seen classmates use other methods of getting user input but I was familliar with the scanner utility and used this.
+//I have seen classmates use other methods of getting user input but I was familliar with the scanner utility and used this.
 import java.util.Scanner;
 public class EURExchange{																
 //The Program Starts Here
